@@ -1,2 +1,3 @@
-# hello_word
-testing project
+Hello..
+
+This is my first GitHub Project
